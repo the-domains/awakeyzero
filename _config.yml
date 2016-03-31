@@ -1,0 +1,28 @@
+name: awakeY zero
+favicon: null
+layout_spectrum: 0.3571102246642113
+typography_spectrum: 0.676251461263746
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6876580063253641
+  lightness: 0.5621985769830644
+  saturation: 0.5618652212433517
+  rhythmicContrast: 0.47480656998232007
+purpose: []
